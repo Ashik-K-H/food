@@ -13,12 +13,12 @@ $(document).ready(function()
 // menu
 $(document).ready(function()
 {
-    $('.sidenav').sidenav(
-    	{
-    		edge: 'right',
-    		inDuration : 500,
-    		outDuration : 400
-    	});
+    // $('.sidenav').sidenav(
+    // 	{
+    // 		edge: 'right',
+    // 		inDuration : 500,
+    // 		outDuration : 400
+    // 	});
 });
 // menu
 
