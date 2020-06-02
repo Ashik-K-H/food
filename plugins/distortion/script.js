@@ -53,7 +53,7 @@ const displacementSlider = function (opts) {
 //      renderW = canvasWidth;
 //    }
    renderW = renderWidth;
-   renderH = canvasHeight;
+   renderH = canvasHeight-500;
 
   let renderer = new THREE.WebGLRenderer({
     antialias: false,alpha: true });
